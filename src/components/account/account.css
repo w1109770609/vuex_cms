@@ -1,0 +1,35 @@
+.asd .el-form-item{
+  width:300px;
+}
+.asd .el-input{
+  width:200px;
+  display: inline-block
+}
+.box {
+  padding: 10px;
+}
+.box .el-input {
+  width: 120px;
+}
+.el-form-item {
+  display: inline-block;
+}
+.el-col {
+  margin-top: 10px;
+}
+.btn {
+  margin-right: 20px;
+}
+.el-form-item {
+  width: 200px;
+  margin-right: 10px;
+}
+.el-pagination {
+  display: inline-block;
+}
+.row {
+  margin-top: 15px;
+}
+.row .el-button {
+  margin-left: 15px;
+}
